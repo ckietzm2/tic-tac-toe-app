@@ -1,2 +1,3 @@
 # tic-tac-toe-app
-Play the game
+https://ckietzm2.github.io/tic-tac-toe-app/
+
